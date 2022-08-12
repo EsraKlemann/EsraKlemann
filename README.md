@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsraKlemann
 - 👀 I’m interested in nearly everything...!
-- 🌱 I’m currently working on an individual project for my Sogyo traineeship. 
+- 🌱 I’m currently working on projects for my Sogyo Software Engineering traineeship. 
 
 <!---
 EsraKlemann/EsraKlemann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
